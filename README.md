@@ -26,5 +26,6 @@
     - Dio Okky Affriza, 14111014, afuriza
     - Erwan Kusuma Wijaya, 141111018, Onlycrash
     - Rissa Arimawan 141111074 ,aroflouz
+    - Satria Agung Andriawan, 131110647, SatriaAirtas93
 * Kontribusi
 * Ajukan pull request
